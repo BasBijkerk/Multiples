@@ -1,0 +1,12 @@
+C:\Users\basbi\source\repos\Multiples\Multiples\bin\Release\netcoreapp3.1\Multiples.exe
+C:\Users\basbi\source\repos\Multiples\Multiples\bin\Release\netcoreapp3.1\Multiples.deps.json
+C:\Users\basbi\source\repos\Multiples\Multiples\bin\Release\netcoreapp3.1\Multiples.runtimeconfig.json
+C:\Users\basbi\source\repos\Multiples\Multiples\bin\Release\netcoreapp3.1\Multiples.runtimeconfig.dev.json
+C:\Users\basbi\source\repos\Multiples\Multiples\bin\Release\netcoreapp3.1\Multiples.dll
+C:\Users\basbi\source\repos\Multiples\Multiples\bin\Release\netcoreapp3.1\Multiples.pdb
+C:\Users\basbi\source\repos\Multiples\Multiples\obj\Release\netcoreapp3.1\Multiples.AssemblyInfoInputs.cache
+C:\Users\basbi\source\repos\Multiples\Multiples\obj\Release\netcoreapp3.1\Multiples.AssemblyInfo.cs
+C:\Users\basbi\source\repos\Multiples\Multiples\obj\Release\netcoreapp3.1\Multiples.csproj.CoreCompileInputs.cache
+C:\Users\basbi\source\repos\Multiples\Multiples\obj\Release\netcoreapp3.1\Multiples.dll
+C:\Users\basbi\source\repos\Multiples\Multiples\obj\Release\netcoreapp3.1\Multiples.pdb
+C:\Users\basbi\source\repos\Multiples\Multiples\obj\Release\netcoreapp3.1\Multiples.genruntimeconfig.cache
